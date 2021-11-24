@@ -66,7 +66,8 @@ FLSS Cifar10 and Cifar100 trained models are available in the saved_checkpoints 
 * Torchvision 0.8.0
 * Numpy 1.19.2
 # Citing this work
-```@InProceedings{Addepalli_2021_CVPR,
+```
+@InProceedings{Addepalli_2021_CVPR,
     author    = {Addepalli, Sravanti and Jain, Samyak and Sriramanan, Gaurang and Babu, R. Venkatesh},
     title     = {Boosting Adversarial Robustness Using Feature Level Stochastic Smoothing},
     booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
